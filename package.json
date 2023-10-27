@@ -1,0 +1,23 @@
+{
+  "name": "@postnerd/pann",
+  "version": "1.0.0",
+  "description": "postnerd's artificial neural network going to npm",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postnerd/pann.git"
+  },
+  "keywords": [
+    "ai"
+  ],
+  "author": "postnerd <martin@postnerd.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/postnerd/pann/issues"
+  },
+  "homepage": "https://github.com/postnerd/pann#readme"
+}
