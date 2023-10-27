@@ -9,7 +9,7 @@ npm install @postnerd/pann
 
 ## Usage
 
-```
+```javascript
 import PANN from "pann";
 
 const pann = new PANN();
